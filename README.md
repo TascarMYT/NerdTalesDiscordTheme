@@ -1,2 +1,3 @@
 # NerdTalesDiscordTheme
 A custom NerdTales Theme!
+Not That Hard...........
